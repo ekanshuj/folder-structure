@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  margin: 25px;
+}
+.container span {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.structure-component {
+  margin-left: 25px;
+}
